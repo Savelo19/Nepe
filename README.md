@@ -1,3 +1,2 @@
 Fff
-
-https://raw.githubusercontent.com/PeneCorp/PeneToken/main/nepe.png
+https://raw.githubusercontent.com/Savelo19/Nepe/main/file.png
